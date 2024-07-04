@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "66508186cd70a2d0ac180372",
+    "bookTitle": "Yellowface",
+    "authorName": "R.F. Kuang",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671336608l/62047984.jpg",
+    "category": "Fiction",
+    "bookDescription": "R.F. Kuang continues her astonishing ascent from genre specialist to literary sensation with Yellowface, a lacerating parable about the publishing industry itself. A combination of satire, metafiction, and slow-burn thriller, the book ultimately delivers a sly cultural critique concerning race and tokenism in the book business.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/62047984-yellowface"
+  },
+  {
+    "_id": "665082d8cd70a2d0ac180373",
+    "bookTitle": "Weyward",
+    "authorName": "Emilia Hart",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677756582l/60654349._SY475_.jpg",
+    "category": "Fiction",
+    "bookDescription": "An artful variation on the historical fiction novel, Emilia Hart’s Weyward follows three desperate women along three timeline threads—separate but related—in 1619, 1942, and 2019. Hart’s story stitches back and forth in time as the women encounter an abiding feminine power, deeply rooted in the land. Bonus tip: Look up the definition of weyward for some witchy etymology.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/60654349-weyward"
+  },
+  {
+    "_id": "66522a0d2ce59bdfd8bda564",
+    "bookTitle": "Holly",
+    "authorName": "Stephen King ",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674418461l/65916344.jpg",
+    "category": "Horror",
+    "bookDescription": "As elder statesman and genre godfather, Stephen King is a familiar name in the Horror category. He returns this year with Holly, which pits an old fan-favorite character—private investigator Holly Gibney—against a pair of uniquely depraved antagonists. King’s book is part character study, part thriller, and part cautionary tale concerning octogenarian academics.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/65916344-holly"
+  },
+  {
+    "_id": "66557821b48d2303729d142e",
+    "bookTitle": "The Wager: A Tale of Shipwreck, Mutiny and Murder",
+    "authorName": "David Grann",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407155l/61714633.jpg",
+    "category": "Fantasy",
+    "bookDescription": "Journalist and veteran researcher David Grann profiles the bloody fate of an 18th-century British warship that generated two groups of survivors, each telling a different tale of What Really Happened. Perhaps this year’s most expansive book, The Wager crosses rigorous research with true-crime verve, peppered with elements of survival tale, legal thriller, and horror story.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/61714633-the-wager"
+  },
+  {
+    "_id": "66557943b48d2303729d142f",
+    "bookTitle": "Being Henry",
+    "authorName": "Henry Winkler",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677855868l/65215014.jpg",
+    "category": "History & Biography",
+    "bookDescription": "In our increasingly divided culture, it’s nice to find one thing we can all agree on: The Fonz is, was, and shall forever be cool. This bedrock wisdom provides the unshakable foundation of Henry Winkler’s delightful memoir, which reveals the actor’s keen eye, big heart, and formidable writing chops. Sometimes the good guys finish first, after all.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/65215014-being-henry"
+  },
+  {
+    "_id": "6655f120a2e5b93f10607fa9",
+    "bookTitle": "Check & Mate",
+    "authorName": "Ali Hazelwood ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678378842i/60683957.jpg",
+    "category": "Fantasy",
+    "bookDescription": "Author Ali Hazelwood made her name in the book business by writing smart love stories for discerning adult readers. So, it’s an encouraging development that her first venture into the young adult aisles is proving equally popular. Check & Mate follows reluctant chess genius Mallory Greenleaf as she deploys gambits and strategies in the game of life. Smart kids need love too, you know.",
+    "bookPDFUrl": "https://www.goodreads.com/book/show/60683957-check-mate"
+  }
+]
